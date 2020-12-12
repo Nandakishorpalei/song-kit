@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", "cursive";
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  margin-top: -9.5rem;
+}
+
+.w {
+background-image: url("https://a10.gaanacdn.com/images/albums/86/1526786/crop_480x480_1526786.jpg");
+background-size:cover;
+}
+
+.k {
+background-image: url("https://d37atgyntjgeo4.cloudfront.net/images/detailed/31/Hate-Story-2-Kabhi-Aayine-Pe-Likha-Tujhe_gjcg-d6.jpg?t=1404988276");
+background-size: cover;
+}
+
+.c {
+background-image: url("https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg");
+background-size:cover;
+}
+
+.e {
+background-image: url("https://s1.dmcdn.net/v/CodG-1McbGKgHe181/x1080");
+background-size:cover;
+}
+
+.h {
+background-image: url("https://i.pinimg.com/originals/36/7b/4d/367b4d03cd1e4d6ff80b7ce8228b3c72.jpg");
+background-size: cover;
+}
+
+.j {
+background-image: url("https://1.bp.blogspot.com/-EUvgSDLTX6U/X1yJ9WIONjI/AAAAAAAABGg/h3moWPgSfj0cvBbGSpnk4y6X6AYL1A_kACLcBGAsYHQ/s1600/Butterfly-Lyrics-Jass-Manak-No-Competition.jpg");
+background-size: cover;
+}
+
+.t {
+background-image: url("https://lh3.googleusercontent.com/-vqRXyU5HwYc/VTRutSdx5VI/AAAAAAAAACE/BOMQQWq24dQ/Tum-Hi-Ho-lyrics-from-Aashiqui-2.jpg");
+background-size: cover;
+}
+
+.b {
+  background-image: url("https://www.bollywoodbubble.com/wp-content/uploads/2020/10/Burj-Khalifa-Akshay-Kumar-Kiara-Advani-2-1280x720.jpg");
+  background-size: cover;
+}
+
+.l{
+  background-image: url("https://a10.gaanacdn.com/gn_img/albums/2lV3dl13Rg/lV3dJ5P5bR/size_xxl.webp");
+  background-size: cover;
+}
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', 'cursive';
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.stop{
+  margin-top: -10rem;
+
+}
+@media (max-width:1028px){
+  .drum{
+    height:200px;
+    width:200px;
+    margin: 40px;
+
+  }
+
+}
